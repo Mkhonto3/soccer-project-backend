@@ -9,4 +9,8 @@ npm i
 
 # run project 
 
+configure db.config.js to your local postgres
+
+# run project 
+
 npm start
